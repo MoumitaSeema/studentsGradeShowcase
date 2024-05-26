@@ -1,0 +1,193 @@
+{
+    "students": [
+      {
+        "class one": [
+          {
+            "id": 1,
+            "name": "Tracey",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 2,
+            "name": "Abigail",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 3,
+            "name": "Lily",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 4,
+            "name": "Faith",
+            "score": "F",
+            "percentage": "30%"
+          },
+          {
+            "id": 5,
+            "name": "Elizabeth",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 6,
+            "name": "Claire",
+            "score": "D",
+            "percentage": "40%"
+          },
+          {
+            "id": 7,
+            "name": "Amelia",
+            "score": "F",
+            "percentage": "32%"
+          },
+          {
+            "id": 8,
+            "name": "Amanda",
+            "score": "C",
+            "percentage": "50%"
+          },
+          {
+            "id": 9,
+            "name": "Alison",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 10,
+            "name": "Alexandra",
+            "score": "B",
+            "percentage": "60%"
+          }
+        ],
+        "class two": [
+          {
+            "id": 1,
+            "name": "Cameron",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 2,
+            "name": "Benjamin",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 3,
+            "name": "Christopher",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 4,
+            "name": "Isaac",
+            "score": "F",
+            "percentage": "30%"
+          },
+          {
+            "id": 5,
+            "name": "Joe",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 6,
+            "name": "Stephanie",
+            "score": "D",
+            "percentage": "40%"
+          },
+          {
+            "id": 7,
+            "name": "Stewart",
+            "score": "F",
+            "percentage": "32%"
+          },
+          {
+            "id": 8,
+            "name": "Victor",
+            "score": "C",
+            "percentage": "50%"
+          },
+          {
+            "id": 9,
+            "name": "William",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 10,
+            "name": "Tim",
+            "score": "B",
+            "percentage": "60%"
+          }
+        ],
+        "class three": [
+          {
+            "id": 1,
+            "name": "Nora",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 2,
+            "name": "Lewis",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 3,
+            "name": "Noah",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 4,
+            "name": "Shea",
+            "score": "F",
+            "percentage": "30%"
+          },
+          {
+            "id": 5,
+            "name": "Doug",
+            "score": "A+",
+            "percentage": "98%"
+          },
+          {
+            "id": 6,
+            "name": "Jack",
+            "score": "D",
+            "percentage": "40%"
+          },
+          {
+            "id": 7,
+            "name": "Taryn",
+            "score": "F",
+            "percentage": "32%"
+          },
+          {
+            "id": 8,
+            "name": "Dena",
+            "score": "C",
+            "percentage": "50%"
+          },
+          {
+            "id": 9,
+            "name": "Oral",
+            "score": "A-",
+            "percentage": "70%"
+          },
+          {
+            "id": 10,
+            "name": "Glen",
+            "score": "B",
+            "percentage": "60%"
+          }
+        ]
+      }
+    ]
+  }
+  
